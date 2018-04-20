@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="App Compat Auto Complete Text View" />
       <item value="Consume the given value." />
       <item value="A functional interface (callback) that accepts a single value." />
       <item value="An action that sets the optional hint text that is displayed at the bottom of the the matching * list. This can be used as a cue to the user on how to best use the list, or to provide extra * information." />
@@ -52,7 +53,6 @@
       <item value="视力情况" />
       <item value="活动能力" />
       <item value="语言表达" />
-      <item value="Delivery" />
     </histories>
   </component>
   <component name="Settings">
