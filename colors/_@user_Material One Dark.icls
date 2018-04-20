@@ -4,7 +4,7 @@
     <property name="created">2018-04-20T17:13:58</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2018-04-20T17:35:12</property>
+    <property name="modified">2018-04-20T17:37:57</property>
     <property name="originalScheme">Material One Dark</property>
   </metaInfo>
   <font>
@@ -13,7 +13,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
@@ -1451,9 +1451,34 @@
         <option name="BACKGROUND" value="12404b" />
       </value>
     </option>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff99ad" />
+      </value>
+    </option>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="69e36d" />
+      </value>
+    </option>
+    <option name="LOGCAT_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff4d4f" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="c6dde3" />
+      </value>
+    </option>
+    <option name="LOGCAT_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="9a84e3" />
+      </value>
+    </option>
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="f8f8f0" />
+        <option name="FOREGROUND" value="f8ed90" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
