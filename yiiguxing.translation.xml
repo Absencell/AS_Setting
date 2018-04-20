@@ -1,0 +1,69 @@
+<application>
+  <component name="AppStorage">
+    <option name="lastSourceLanguage" value="AUTO" />
+    <option name="lastTargetLanguage" value="CHINESE" />
+    <histories>
+      <item value="Consume the given value." />
+      <item value="A functional interface (callback) that accepts a single value." />
+      <item value="An action that sets the optional hint text that is displayed at the bottom of the the matching * list. This can be used as a cue to the user on how to best use the list, or to provide extra * information." />
+      <item value="An action that specifies the minimum number of characters the user has to type in the edit box * before the drop down list is shown. When threshold is less than or equals 0, a threshold of 1 * is applied." />
+      <item value="pointer Icon" />
+      <item value="dosage" />
+      <item value="中药用量" />
+      <item value="用量" />
+      <item value="notify Data Set Invalidated" />
+      <item value="Notifies the attached observers that the underlying data is no longer valid * or available. Once invoked this adapter is no longer valid and should * not report further data set changes." />
+      <item value="trampoline" />
+      <item value="computation" />
+      <item value="Use * &lt;a href=&quot;{@docRoot}reference/android/support/test/InstrumentationRegistry.html&quot;&gt; * InstrumentationRegistry&lt;/a&gt; instead. New tests should be written using the * &lt;a href=&quot;{@docRoot}tools/testing-support-library/index.html&quot;&gt;Android Testing Support Library" />
+      <item value="assert Equals" />
+      <item value="Initializer function can be called several times on concurrent access to uninitialized [Lazy] instance value, * but only the first returned value will be used as the value of [Lazy] instance." />
+      <item value="Locks are used to ensure that only a single thread can initialize the [Lazy] instance." />
+      <item value="No locks are used to synchronize an access to the [Lazy] instance value; if the instance is accessed from multiple threads, its behavior is undefined. * * This mode should not be used unless the [Lazy] instance is guaranteed never to be initialized from more than one thread." />
+      <item value="圆" />
+      <item value="cycler" />
+      <item value="shape blue cycler" />
+      <item value="处方类型" />
+      <item value="Receiving" />
+      <item value="取药处" />
+      <item value="Medicine" />
+      <item value="dispensary" />
+      <item value="医嘱" />
+      <item value="已完成" />
+      <item value="On Fragment Interaction Listener" />
+      <item value="病历" />
+      <item value="历史病例" />
+      <item value="Historical cases" />
+      <item value="入科时间" />
+      <item value="The number of columns in the grid" />
+      <item value="is Expanded" />
+      <item value="TYPE PATIENT" />
+      <item value="患者" />
+      <item value="TYPE PAITENT" />
+      <item value="住院号" />
+      <item value="admission number " />
+      <item value="diagnosis" />
+      <item value="重置" />
+      <item value="个人资料" />
+      <item value="This will request focus for whichever View was last focused within this * cluster before a focus-jump out of it." />
+      <item value="Call this to try to give focus to a specific view or to one of its * descendants." />
+      <item value="听力" />
+      <item value="Vision" />
+      <item value="视力情况" />
+      <item value="活动能力" />
+      <item value="语言表达" />
+      <item value="Delivery" />
+    </histories>
+  </component>
+  <component name="Settings">
+    <option name="showStatusIcon" value="false" />
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="5792bcc2f68a3017" />
+        <option name="appKeyConfigured" value="true" />
+        <option name="primaryLanguage" value="CHINESE" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
