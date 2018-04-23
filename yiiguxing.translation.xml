@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="records choice" />
       <item value="It is not recommended to adjust thread priorities, and this will * not be supported in future versions." />
       <item value="病历" />
       <item value="App Compat Auto Complete Text View" />
@@ -52,7 +53,6 @@
       <item value="听力" />
       <item value="Vision" />
       <item value="视力情况" />
-      <item value="活动能力" />
     </histories>
   </component>
   <component name="Settings">
