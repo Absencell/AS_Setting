@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="affairs" />
+      <item value="总务" />
       <item value="records choice" />
       <item value="It is not recommended to adjust thread priorities, and this will * not be supported in future versions." />
       <item value="病历" />
@@ -51,8 +53,6 @@
       <item value="This will request focus for whichever View was last focused within this * cluster before a focus-jump out of it." />
       <item value="Call this to try to give focus to a specific view or to one of its * descendants." />
       <item value="听力" />
-      <item value="Vision" />
-      <item value="视力情况" />
     </histories>
   </component>
   <component name="Settings">
