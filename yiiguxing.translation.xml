@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="病历" />
       <item value="App Compat Auto Complete Text View" />
       <item value="Consume the given value." />
       <item value="A functional interface (callback) that accepts a single value." />
@@ -32,7 +33,6 @@
       <item value="医嘱" />
       <item value="已完成" />
       <item value="On Fragment Interaction Listener" />
-      <item value="病历" />
       <item value="历史病例" />
       <item value="Historical cases" />
       <item value="入科时间" />
