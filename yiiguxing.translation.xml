@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="divider line" />
+      <item value="Warning:(25, 61) Actual value of parameter ''format'' is always ''&quot;yyyy-MM-dd HH:mm:ss&quot;''" />
+      <item value="This inspections reports usage of the default file template for File Header. Also, the inspection proposes to change default file template and its usage." />
       <item value="Returns the current time in milliseconds. Note that * while the unit of time of the return value is a millisecond, * the granularity of the value depends on the underlying * operating system and may be larger. For example, many * operating systems measure time in units of tens of * milliseconds." />
       <item value="时间间隔" />
       <item value="Yi Qi Detail" />
@@ -50,9 +53,6 @@
       <item value="TYPE PAITENT" />
       <item value="住院号" />
       <item value="admission number " />
-      <item value="diagnosis" />
-      <item value="重置" />
-      <item value="个人资料" />
     </histories>
   </component>
   <component name="Settings">
