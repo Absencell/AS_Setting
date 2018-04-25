@@ -4,7 +4,7 @@
     <property name="created">2018-04-20T17:05:31</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2018-04-25T09:08:05</property>
+    <property name="modified">2018-04-25T14:28:09</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <font>
@@ -1394,6 +1394,26 @@
         <option name="BACKGROUND" value="12404b" />
       </value>
     </option>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff8ad8" />
+      </value>
+    </option>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="66e379" />
+      </value>
+    </option>
+    <option name="LOGCAT_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff4a4d" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="c5e3d8" />
+      </value>
+    </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="c3cee3" />
@@ -1401,7 +1421,7 @@
     </option>
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="f8f8f0" />
+        <option name="FOREGROUND" value="f8f872" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
