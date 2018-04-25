@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Returns the current time in milliseconds. Note that * while the unit of time of the return value is a millisecond, * the granularity of the value depends on the underlying * operating system and may be larger. For example, many * operating systems measure time in units of tens of * milliseconds." />
       <item value="时间间隔" />
       <item value="Yi Qi Detail" />
       <item value="affairs" />
@@ -52,7 +53,6 @@
       <item value="diagnosis" />
       <item value="重置" />
       <item value="个人资料" />
-      <item value="This will request focus for whichever View was last focused within this * cluster before a focus-jump out of it." />
     </histories>
   </component>
   <component name="Settings">
