@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Yi Qi Detail" />
       <item value="affairs" />
       <item value="总务" />
       <item value="records choice" />
@@ -52,7 +53,6 @@
       <item value="个人资料" />
       <item value="This will request focus for whichever View was last focused within this * cluster before a focus-jump out of it." />
       <item value="Call this to try to give focus to a specific view or to one of its * descendants." />
-      <item value="听力" />
     </histories>
   </component>
   <component name="Settings">
