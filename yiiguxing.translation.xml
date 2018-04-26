@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Maintenance" />
+      <item value="保养" />
       <item value="divider line" />
       <item value="Warning:(25, 61) Actual value of parameter ''format'' is always ''&quot;yyyy-MM-dd HH:mm:ss&quot;''" />
       <item value="This inspections reports usage of the default file template for File Header. Also, the inspection proposes to change default file template and its usage." />
@@ -51,8 +53,6 @@
       <item value="TYPE PATIENT" />
       <item value="患者" />
       <item value="TYPE PAITENT" />
-      <item value="住院号" />
-      <item value="admission number " />
     </histories>
   </component>
   <component name="Settings">
