@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="RxPermissions.onRequestPermissionsResult invoked but didn't find the corresponding permission request." />
       <item value="申请" />
       <item value="Maintenance" />
       <item value="保养" />
@@ -52,7 +53,6 @@
       <item value="The number of columns in the grid" />
       <item value="is Expanded" />
       <item value="TYPE PATIENT" />
-      <item value="患者" />
     </histories>
   </component>
   <component name="Settings">
